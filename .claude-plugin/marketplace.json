@@ -1,0 +1,17 @@
+{
+  "name": "pedropureza-pairing",
+  "owner": {
+    "name": "Pedro Pureza"
+  },
+  "metadata": {
+    "description": "Claude Code pairing skill: you drive, Claude navigates"
+  },
+  "plugins": [
+    {
+      "name": "pairing",
+      "source": "./",
+      "description": "Pair programming where you type and Claude navigates, one verifiable step per turn",
+      "version": "1.0.0"
+    }
+  ]
+}

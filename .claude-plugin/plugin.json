@@ -1,0 +1,12 @@
+{
+  "name": "pairing",
+  "description": "Pair programming where you type and Claude navigates, one verifiable step per turn",
+  "version": "1.0.0",
+  "author": {
+    "name": "Pedro Pureza",
+    "url": "https://github.com/PedroPureza"
+  },
+  "repository": "https://github.com/PedroPureza/claude-pairing-skill",
+  "license": "MIT",
+  "keywords": ["pairing", "learning", "tdd", "skill"]
+}
